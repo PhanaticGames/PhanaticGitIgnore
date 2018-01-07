@@ -1,0 +1,2 @@
+# PhanaticGitIgnore
+The offical gitignore
